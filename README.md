@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohit-dobhal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 54898_mohitdobhal@gbpuat-tech.ac.in
 
 <!---
