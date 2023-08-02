@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 54898_mohitdobhal@gbpuat-tech.ac.in
+- 📫 How to reach me mohitdobhal705@gmail.com
 
 <!---
 Mohit-dobhal/Mohit-dobhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
